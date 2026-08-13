@@ -1,0 +1,1899 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Linux",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fresh New Linux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-04-02T13:41:40Z",
+                "owner": "jeanlucaslima",
+                "repo": "linux-checklist",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anderson's 0x539",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-03-27T19:52:23Z",
+                "owner": "Forty-Bot",
+                "repo": "linux-checklist",
+                "stars": 76
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OSX",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Fresh New OS",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by abookyun",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2023-11-19T23:26:03Z",
+                    "owner": "abookyun",
+                    "repo": "clean-install-your-mac-without-hesitation",
+                    "stars": 85
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by grant",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2025-12-17T19:08:08Z",
+                    "owner": "grant",
+                    "repo": "new-computer-checklist",
+                    "stars": 37
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ubuntu",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fresh New Ubuntu",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Platform"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python API",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-08T19:50:49Z",
+            "owner": "vintasoftware",
+            "repo": "python-api-checklist",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaScript project",
+          "description": "Code | Video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-15T15:46:59Z",
+            "owner": "bitovi",
+            "repo": "checklist",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Symfony2 deployment",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GCC Machine Description",
+            "last_commit": "2017-04-04T13:51:54Z",
+            "owner": "winzou",
+            "repo": "symfony2-checklist",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-10-14T20:17:26Z",
+            "owner": "huytd",
+            "repo": "golang-checklist",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Haskell",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by haskell-perf",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-05-29T13:46:29Z",
+                "owner": "haskell-perf",
+                "repo": "checklist",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by iand675",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haskell",
+                "last_commit": "2016-08-26T01:01:30Z",
+                "owner": "iand675",
+                "repo": "haskell-checklist",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "package",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2018-09-07T19:28:47Z",
+                "owner": "tfausak",
+                "repo": "haskell-package-checklist",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java EE 8",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-01-31T08:24:05Z",
+                "owner": "hantsy",
+                "repo": "awesome-javaee8",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "a new Java contract / project / employee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-05-03T21:01:40Z",
+                "owner": "marco76",
+                "repo": "java-project-checklist",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PHP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Package",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2020-01-15T15:40:58Z",
+                "owner": "reinink",
+                "repo": "phppackagechecklist.com",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2014-09-10T21:23:22Z",
+                "owner": "codeinphp",
+                "repo": "php-project-checklist",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Security",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by sk89q",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2015-06-21T09:13:23Z",
+                    "owner": "sk89q",
+                    "repo": "php-security-checklist",
+                    "stars": 60
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by Tjoosten",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2017-05-09T02:21:56Z",
+                    "owner": "Tjoosten",
+                    "repo": "Security-Checklists",
+                    "stars": 5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Debugging",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2014-02-20T18:31:23Z",
+                "owner": "flatiron-school",
+                "repo": "ruby-debugging-checklist",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby on Rails",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Upgrade",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2016-03-14T23:38:00Z",
+                "owner": "jwo",
+                "repo": "rails-upgrade_checklist",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "Security",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by brunofacca",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Ruby",
+                    "last_commit": "2020-03-09T11:42:57Z",
+                    "owner": "brunofacca",
+                    "repo": "zen-rails-security-checklist",
+                    "stars": 1811
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by eliotsykes",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Ruby",
+                    "last_commit": "2022-07-17T16:46:46Z",
+                    "owner": "eliotsykes",
+                    "repo": "rails-security-checklist",
+                    "stars": 1362
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Programming Languages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular Performance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-04T22:01:41Z",
+            "owner": "mgechev",
+            "repo": "angular-performance-checklist",
+            "stars": 4133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java + Angular/React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-20T12:56:58Z",
+            "owner": "shekhargulati",
+            "repo": "building-java-web-apps-checklist",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NPM Module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-07T20:07:50Z",
+            "owner": "bahmutov",
+            "repo": "npm-module-checklist",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Before Front-End Development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-10-07T13:00:58Z",
+            "owner": "rcherny",
+            "repo": "Front-End-Architecture-Checklist",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accessibility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-09-19T06:39:03Z",
+            "owner": "irekrog",
+            "repo": "accessibility-checklist",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code Review",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-05-11T21:29:42Z",
+            "owner": "92bondstreet",
+            "repo": "code-review-front-end",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Building",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-16T09:25:45Z",
+            "owner": "soleo",
+            "repo": "front-end-building-checklist",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "After Front-End Development",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by thedaviddias",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "MDX",
+                "last_commit": "2026-08-11T04:01:39Z",
+                "owner": "thedaviddias",
+                "repo": "Front-End-Checklist",
+                "stars": 73525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by drublic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-01-04T18:59:20Z",
+                "owner": "drublic",
+                "repo": "checklist",
+                "stars": 283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by albburtsev",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2015-02-03T10:10:19Z",
+                "owner": "albburtsev",
+                "repo": "frontend-developer-checklist",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by ligershark",
+              "description": "Code",
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "by strv-academy-2017",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Web Design",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by Heydon",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-06-11T11:48:40Z",
+                "owner": "Heydon",
+                "repo": "inclusive-design-checklist",
+                "stars": 2761
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by grayghostvisuals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "ApacheConf",
+                "last_commit": "2017-06-09T07:03:59Z",
+                "owner": "grayghostvisuals",
+                "repo": "webdesignerschecklist",
+                "stars": 414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by Imaginarydesign",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-07-11T03:48:57Z",
+                "owner": "Imaginarydesign",
+                "repo": "webdev-checklist",
+                "stars": 140
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by actum",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SEO",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by tutsplus",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-09-30T19:07:15Z",
+                "owner": "tutsplus",
+                "repo": "SEO-Checklist-for-Web-Designers",
+                "stars": 277
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by ibandominguez",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-10-21T09:12:06Z",
+                "owner": "domingueznoda",
+                "repo": "seo-checklist",
+                "stars": 73
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "React",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by harrisrobin",
+              "description": "A check list to refer to before starting a react-native project",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-11-29T01:51:20Z",
+                "owner": "harrisrobin",
+                "repo": "react-native-checklist",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Upgrading ES5 React to ES6+",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-05T23:55:24Z",
+                "owner": "cht8687",
+                "repo": "React-ES5-To-ES6-Checklist",
+                "stars": 106
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Drupal",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drupal 8",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2021-10-19T12:53:02Z",
+                "owner": "theodorosploumis",
+                "repo": "drupal-development-checklist",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Website launch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": null,
+                "last_commit": "2017-12-11T18:15:37Z",
+                "owner": "alehkot",
+                "repo": "drupal-launch-checklist",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Front-End Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Django",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-24T18:37:35Z",
+            "owner": "vintasoftware",
+            "repo": "django-apps-checklist",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Magneto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2012-10-25T21:08:56Z",
+            "owner": "magento-hackathon",
+            "repo": "upgrade-checklist",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Docker",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-11-01T11:03:00Z",
+                "owner": "strozfriedberg",
+                "repo": "Docker-Secure-Deployment-Guidelines",
+                "stars": 608
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enterprise",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-10-17T10:50:05Z",
+                "owner": "nicolaka",
+                "repo": "checklist",
+                "stars": 45
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2024-04-23T07:17:37Z",
+                "owner": "jesusprubio",
+                "repo": "strong-node",
+                "stars": 508
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by nickoki",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-11-10T17:07:15Z",
+                "owner": "nickoki",
+                "repo": "node_app_checklist",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Back-End Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Application Performance",
+          "description": "Gathers performance practices to apply when developing a web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-03T09:02:14Z",
+            "owner": "antarestupin",
+            "repo": "performance-checklist",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Security",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by virajkulkarni14",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2021-05-10T07:48:47Z",
+                "owner": "virajkulkarni14",
+                "repo": "WebDeveloperSecurityChecklist",
+                "stars": 423
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by iamthefrogy",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Launch",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by HarrisJT",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2018-10-29T02:52:16Z",
+                "owner": "HarrisJT",
+                "repo": "web-launch-checklist",
+                "stars": 220
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by datamade",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-07-02T16:43:33Z",
+                "owner": "datamade",
+                "repo": "site-launch-checklist",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by mapiec",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2009-02-19T20:01:15Z",
+                "owner": "mapiec",
+                "repo": "checklist",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by siddharthashok",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-08-28T11:40:45Z",
+                "owner": "siddharthashok",
+                "repo": "Site-Launch-Checklist",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by kdee15",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "Web App"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "All projects that are going live",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-31T10:25:02Z",
+            "owner": "spatie",
+            "repo": "checklist-going-live",
+            "stars": 1536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ecommerce Website Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-02T05:51:36Z",
+            "owner": "IamHDT",
+            "repo": "Ecommerce-Website-Security-CheckList",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-29T15:58:17Z",
+            "owner": "theodesp",
+            "repo": "stable-systems-checklist",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Plan",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UX Recipe",
+              "description": "Code - Discover, choose and estimate your next UX project tools & techniques.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2017-05-02T07:08:59Z",
+                "owner": "uxrecipe",
+                "repo": "uxrecipe.github.io",
+                "stars": 130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Estimation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-05-23T02:45:59Z",
+                "owner": "togakangaroo",
+                "repo": "estimation-checklist",
+                "stars": 73
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Project Management",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by smtlaissezfaire",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2010-04-25T06:09:13Z",
+                "owner": "smtlaissezfaire",
+                "repo": "project_management",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by joelparkerhenderson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-04-14T08:46:55Z",
+                "owner": "SixArm",
+                "repo": "project-management-checklist",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open Source",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "README",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-12-12T20:32:14Z",
+                "owner": "ddbeck",
+                "repo": "readme-checklist",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Contribution",
+              "description": null,
+              "children": []
+            },
+            {
+              "node_type": "group",
+              "title": "Open Source Project",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "by afonsopacifer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2016-04-11T20:38:49Z",
+                    "owner": "afonsopacifer",
+                    "repo": "open-source-checklist",
+                    "stars": 216
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by cfpb",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": null,
+                    "last_commit": "2023-03-04T06:40:24Z",
+                    "owner": "cfpb",
+                    "repo": "open-source-project-template",
+                    "stars": 214
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "by jollygoodcode",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Ruby",
+                    "last_commit": "2016-01-12T07:00:29Z",
+                    "owner": "jollygoodcode",
+                    "repo": "Open_Source_Checklist",
+                    "stars": 7
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "iOS App Developmenet",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by oisin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2019-03-04T21:03:05Z",
+                "owner": "oisin",
+                "repo": "app-release-checklist",
+                "stars": 775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by ahmedragab",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2015-01-14T02:09:07Z",
+                "owner": "ahmedragab",
+                "repo": "iOS-Checklist",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Submit to AppStore",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by acomito",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2020-12-31T14:33:25Z",
+                "owner": "acomito",
+                "repo": "expo-to-appstore-checklist",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by rossbeale",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2013-05-05T16:09:52Z",
+                "owner": "rossbeale",
+                "repo": "iOS-App-Store-Submission-Checklist",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by stanfy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2015-12-21T12:59:26Z",
+                "owner": "stanfy",
+                "repo": "submit-to-appstore-objc",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by whitef0x0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-08-21T03:13:23Z",
+                "owner": "whitef0x0",
+                "repo": "app-store-checklist",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by DevMountain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-01-29T03:56:51Z",
+                "owner": "DevMountain",
+                "repo": "ios-code-review-checklist",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Android App Launch",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "App & Project Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Theme Approval Checklist for ThemeForest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-29T02:35:06Z",
+            "owner": "hasinhayder",
+            "repo": "themeforest-wp-theme-approval-checklist",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-27T04:18:46Z",
+            "owner": "RafaelFunchal",
+            "repo": "wordpress-security-checklist",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SEO",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-27T13:32:15Z",
+            "owner": "douglasanro",
+            "repo": "wordpress-seo-checklist",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Themes Review",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by thanhluu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2015-10-21T07:35:44Z",
+                "owner": "thanhluu",
+                "repo": "wp-themes-review",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by grappler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2014-01-31T21:56:46Z",
+                "owner": "grappler",
+                "repo": "theme-review-checklist",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by laras126",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-10-20T22:06:24Z",
+                "owner": "laras126",
+                "repo": "theme-checklist",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by mattrude",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2011-08-08T17:23:20Z",
+                "owner": "mattrude",
+                "repo": "theme-checklist",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Publish website",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by ingvijonasson",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-01-06T22:10:11Z",
+                "owner": "ingvoo",
+                "repo": "checklist-wordpress",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by arobbins",
+              "description": null,
+              "children": []
+            }
+          ]
+        }
+      ],
+      "title": "WordPress"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Side Project Marketing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-08T11:21:11Z",
+            "owner": "draftdev",
+            "repo": "startup-marketing-checklist",
+            "stars": 5634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marketing Checklist for Indie Game Developers",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-05-08T17:32:34Z",
+            "owner": "tutsplus",
+            "repo": "Marketing-Checklist-For-Indie-Game-Developers",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Marketing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "by alulsh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-02T09:23:11Z",
+            "owner": "alulsh",
+            "repo": "personal-security-checklist",
+            "stars": 280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "by adilmajid",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-06T04:08:28Z",
+            "owner": "adilmajid",
+            "repo": "privacy-for-the-paranoid",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "by diafygi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-03-22T03:50:39Z",
+            "owner": "diafygi",
+            "repo": "privacy-checklist",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Personal Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Conference",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Conference Attendees",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-01-08T13:54:43Z",
+                "owner": "MacLemon",
+                "repo": "CongressChecklist",
+                "stars": 499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conference Organizers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-09T20:43:19Z",
+                "owner": "mxsasha",
+                "repo": "lessobviouschecklist",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Presentations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-03-11T16:33:52Z",
+                "owner": "gSchool",
+                "repo": "presentation-checklist",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Meetup",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meetup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-03-15T10:42:29Z",
+                "owner": "ctdesign",
+                "repo": "meetup-checklist",
+                "stars": 14
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Event"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Startup Incorporation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-23T18:25:57Z",
+            "owner": "leonar15",
+            "repo": "startup-checklist",
+            "stars": 2584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Startup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-04T21:24:14Z",
+            "owner": "slashdotdash",
+            "repo": "saas-startup-checklist",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crisis Management",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-12-08T20:40:55Z",
+            "owner": "vintasoftware",
+            "repo": "critical-incidents-checklist",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startup-Test",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Business"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "US",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2013-08-28T05:09:41Z",
+            "owner": "xzyfer",
+            "repo": "us-travel-checklist",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Abroad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-08-01T02:23:59Z",
+            "owner": "jpcaparas",
+            "repo": "travel-checklist",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-02T14:28:56Z",
+            "owner": "histrio",
+            "repo": "awesome-hiking",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Travelling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dark Souls 3",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-31T12:17:05Z",
+            "owner": "ZKjellberg",
+            "repo": "dark-souls-3-cheat-sheet",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Souls 2",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-01T18:03:29Z",
+            "owner": "smcnabb",
+            "repo": "dark-souls-2-cheat-sheet",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Pokemon",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multiple checklists",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2025-11-18T17:01:00Z",
+                "owner": "PhilMurwin",
+                "repo": "PokemonChecklists",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pokefinder",
+              "description": "Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2019-06-28T12:20:53Z",
+                "owner": "GiacomoLaw",
+                "repo": "pokefinder",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "API Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T07:59:55Z",
+            "owner": "shieldfy",
+            "repo": "API-Security-Checklist",
+            "stars": 23300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Security",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T18:03:39Z",
+            "owner": "sqreen",
+            "repo": "CTOSecurityChecklist",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microservice Oriented Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-19T14:47:32Z",
+            "owner": "paunin",
+            "repo": "soa-checklist",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps",
+          "description": "Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-10-15T18:52:22Z",
+            "owner": "sqreen",
+            "repo": "DevOpsSecurityChecklist",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Health",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-06T04:20:23Z",
+            "owner": "fukawi2",
+            "repo": "NetworkHealthChecklist",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Router Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-06-24T05:19:48Z",
+            "owner": "jonmbake",
+            "repo": "router-security-checklist",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Style Guide Creation",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "group",
+          "title": "Code Review",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "by markoch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2018-10-08T18:07:04Z",
+                "owner": "markoch",
+                "repo": "code-review",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by rjz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-11-24T18:09:52Z",
+                "owner": "rjz",
+                "repo": "code-review-checklist",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by godber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2015-03-24T13:13:18Z",
+                "owner": "godber",
+                "repo": "software_dev_templates_and_checklists",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "by ahammel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2017-07-17T19:30:09Z",
+                "owner": "ahammel",
+                "repo": "code-review-checklist",
+                "stars": 10
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Thanks to Github Flavoured Markdown, you can create Task lists with ease.",
+      "items": [],
+      "title": "Creating a Checklist"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:36:59.841Z",
+    "original_repository": "huyingjie/Checklist-Checklist",
+    "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",
+    "enhanced_repository": "enhansome/enhansome-Checklist-Checklist",
+    "enhanced_repository_description": null,
+    "title": "Awesome Checklist Checklist with stars"
+  }
+}
