@@ -97,13 +97,13 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,539 | 🐛 5 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,558 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
 * Web Design
-  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,762 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
+  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,764 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
   * by [grayghostvisuals](https://github.com/grayghostvisuals/webdesignerschecklist) ⭐ 414 | 🐛 1 | 🌐 ApacheConf | 📅 2017-06-09
   * by [Imaginarydesign](http://imaginarydesign.github.io/webdev-checklist/) | [Code](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11
   * by [actum](https://github.com/actum/frontend-checklist)
@@ -154,7 +154,7 @@
   * by [smtlaissezfaire](https://github.com/smtlaissezfaire/project_management/blob/master/project_management_checklist.txt) ⭐ 21 | 🐛 0 | 📅 2010-04-25
   * by [joelparkerhenderson](https://github.com/joelparkerhenderson/project_management_checklist) ⭐ 14 | 🐛 0 | 📅 2025-04-14
 * Open Source
-  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12
+  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 666 | 🐛 3 | 📅 2025-12-12
   * [Contribution](https://github.com/process-bot/contribution-checklist)
   * Open Source Project
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 216 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,298 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,299 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 747 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 96 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

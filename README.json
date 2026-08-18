@@ -511,7 +511,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73539
+                "stars": 73558
               }
             },
             {
@@ -572,7 +572,7 @@
                 "last_commit": "2020-06-11T11:48:40Z",
                 "owner": "Heydon",
                 "repo": "inclusive-design-checklist",
-                "stars": 2762
+                "stars": 2764
               }
             },
             {
@@ -1070,7 +1070,7 @@
                 "last_commit": "2025-12-12T20:32:14Z",
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 667
+                "stars": 666
               }
             },
             {
@@ -1732,7 +1732,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23298
+            "stars": 23299
           }
         },
         {
@@ -1889,7 +1889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:57:24.013Z",
+    "last_updated": "2026-08-18T15:05:38.646Z",
     "original_repository": "huyingjie/Checklist-Checklist",
     "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",
     "enhanced_repository": "enhansome/enhansome-Checklist-Checklist",
