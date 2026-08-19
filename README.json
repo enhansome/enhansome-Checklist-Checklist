@@ -524,7 +524,7 @@
                     "last_commit": "2026-08-14T05:59:25Z",
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 73569
+                    "stars": 73570
                   }
                 },
                 {
@@ -576,7 +576,7 @@
                     "last_commit": "2020-06-11T11:48:40Z",
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2764
+                    "stars": 2763
                   }
                 },
                 {
@@ -1767,7 +1767,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23301
+            "stars": 23302
           }
         },
         {
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:12:39.503Z",
+    "last_updated": "2026-08-19T15:06:10.336Z",
     "original_repository": "huyingjie/Checklist-Checklist",
     "original_repository_id": 115446696,
     "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",

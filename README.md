@@ -97,13 +97,13 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,569 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,570 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
 * Web Design
-  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,764 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
+  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,763 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
   * by [grayghostvisuals](https://github.com/grayghostvisuals/webdesignerschecklist) ⭐ 414 | 🐛 1 | 🌐 ApacheConf | 📅 2017-06-09
   * by [Imaginarydesign](http://imaginarydesign.github.io/webdev-checklist/) | [Code](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11
   * by [actum](https://github.com/actum/frontend-checklist)
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,301 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,302 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 747 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 96 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
