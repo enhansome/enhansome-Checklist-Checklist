@@ -77,7 +77,7 @@
                     "last_commit": "2025-12-17T19:08:08Z",
                     "owner": "grant",
                     "repo": "new-computer-checklist",
-                    "stars": 37
+                    "stars": 38
                   }
                 }
               ]
@@ -524,7 +524,7 @@
                     "last_commit": "2026-08-14T05:59:25Z",
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 73570
+                    "stars": 73580
                   }
                 },
                 {
@@ -1726,7 +1726,7 @@
                 "archived": false,
                 "id": 29318704,
                 "language": "HTML",
-                "last_commit": "2025-11-18T17:01:00Z",
+                "last_commit": "2026-08-19T16:48:10Z",
                 "owner": "PhilMurwin",
                 "repo": "PokemonChecklists",
                 "stars": 44
@@ -1767,7 +1767,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23302
+            "stars": 23301
           }
         },
         {
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:06:10.336Z",
+    "last_updated": "2026-08-20T15:14:59.051Z",
     "original_repository": "huyingjie/Checklist-Checklist",
     "original_repository_id": 115446696,
     "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",
