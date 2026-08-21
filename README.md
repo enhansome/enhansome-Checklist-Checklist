@@ -92,18 +92,18 @@
 * [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,133 | 🐛 1 | 📅 2023-07-04
 * [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
-* [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 107 | 🐛 0 | 📅 2014-10-07
+* [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
 * [Accessibility](https://github.com/irekrog/accessibility-checklist) ⭐ 42 | 🐛 1 | 📅 2019-09-19
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,580 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,598 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
 * Web Design
-  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,763 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
+  * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,762 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
   * by [grayghostvisuals](https://github.com/grayghostvisuals/webdesignerschecklist) ⭐ 414 | 🐛 1 | 🌐 ApacheConf | 📅 2017-06-09
   * by [Imaginarydesign](http://imaginarydesign.github.io/webdev-checklist/) | [Code](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11
   * by [actum](https://github.com/actum/frontend-checklist)
@@ -154,7 +154,7 @@
   * by [smtlaissezfaire](https://github.com/smtlaissezfaire/project_management/blob/master/project_management_checklist.txt) ⭐ 21 | 🐛 0 | 📅 2010-04-25
   * by [joelparkerhenderson](https://github.com/joelparkerhenderson/project_management_checklist) ⭐ 14 | 🐛 0 | 📅 2025-04-14
 * Open Source
-  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 666 | 🐛 3 | 📅 2025-12-12
+  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 665 | 🐛 3 | 📅 2025-12-12
   * [Contribution](https://github.com/process-bot/contribution-checklist)
   * Open Source Project
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 216 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,636 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,635 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -225,7 +225,7 @@
 ## <a id="Games"></a>Games
 
 * [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 364 | 🐛 4 | 🌐 HTML | 📅 2025-07-31
-* [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
+* [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
   * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
