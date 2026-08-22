@@ -414,7 +414,7 @@
                 "last_commit": "2023-07-04T22:01:41Z",
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4133
+                "stars": 4132
               }
             },
             {
@@ -524,7 +524,7 @@
                     "last_commit": "2026-08-14T05:59:25Z",
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 73598
+                    "stars": 73609
                   }
                 },
                 {
@@ -1126,7 +1126,7 @@
                     "last_commit": "2023-03-04T06:40:24Z",
                     "owner": "cfpb",
                     "repo": "open-source-project-template",
-                    "stars": 214
+                    "stars": 215
                   }
                 },
                 {
@@ -1767,7 +1767,7 @@
             "last_commit": "2026-07-21T07:59:55Z",
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23301
+            "stars": 23304
           }
         },
         {
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:07:32.953Z",
+    "last_updated": "2026-08-22T14:56:51.882Z",
     "original_repository": "huyingjie/Checklist-Checklist",
     "original_repository_id": 115446696,
     "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",
