@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,609 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,617 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -158,7 +158,7 @@
   * [Contribution](https://github.com/process-bot/contribution-checklist)
   * Open Source Project
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 216 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
-    * by [cfpb](https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md) ⭐ 215 | 🐛 6 | 📅 2023-03-04
+    * by [cfpb](https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md) ⭐ 216 | 🐛 6 | 📅 2023-03-04
     * by [jollygoodcode](https://github.com/jollygoodcode/Open_Source_Checklist) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2016-01-12
 * iOS App Developmenet
   * by [oisin](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) ⭐ 775 | 🐛 0 | 📅 2019-03-04
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
