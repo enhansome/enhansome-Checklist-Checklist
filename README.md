@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,823 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,881 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,636 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,637 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 499 | 🐛 1 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 500 | 🐛 1 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 382 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -211,7 +211,7 @@
 
 ## <a id="Business"></a>Business
 
-* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,586 | 🐛 3 | 📅 2025-10-23
+* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,585 | 🐛 3 | 📅 2025-10-23
 * [SaaS Startup](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04
 * [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 18 | 🐛 0 | 📅 2018-12-08
 * [Startup-Test](https://github.com/nlra/Startup-Test)
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
