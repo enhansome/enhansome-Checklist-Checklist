@@ -524,7 +524,7 @@
                     "last_commit": "2026-08-14T05:59:25Z",
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 73881
+                    "stars": 73902
                   }
                 },
                 {
@@ -1917,9 +1917,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:04:42.565Z",
-    "original_repository": "huyingjie/Checklist-Checklist",
-    "original_repository_id": 115446696,
+    "last_updated": "2026-08-27T11:31:05.473Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115446696,
+      "language": "JavaScript",
+      "last_commit": "2023-04-20T02:00:00Z",
+      "owner": "huyingjie",
+      "repo": "Checklist-Checklist",
+      "stars": 2961
+    },
     "original_repository_sha": "96484ebdf1f566e3176f19cc6a8201db7f0a4e7d",
     "enhanced_repository": "enhansome/enhansome-Checklist-Checklist",
     "enhanced_repository_description": null,
