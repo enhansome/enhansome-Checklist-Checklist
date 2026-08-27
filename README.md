@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,902 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,915 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,637 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,638 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 500 | 🐛 1 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 501 | 🐛 1 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 382 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -307,7 +307,7 @@ To stay on the list, projects should follow these quality standards:
 * Generally used and useful to the community.
 * Actively maintained, i.e., take care of open issues and update lists.
 
-Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,961 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,962 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
 
 ## License
 
