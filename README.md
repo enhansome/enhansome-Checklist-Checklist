@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,915 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 73,932 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -135,7 +135,7 @@
   * by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 423 | 🐛 4 | 📅 2021-05-10
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
-  * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 220 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
+  * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 219 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
   * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 126 | 🐛 1 | 📅 2026-07-02
   * by [mapiec](https://github.com/mapiec/checklist) ⭐ 14 | 🐛 0 | 📅 2009-02-19
   * by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist) ⭐ 10 | 🐛 0 | 📅 2017-08-28
@@ -144,7 +144,7 @@
 
 ## <a id="App-Project-Development"></a>App & Project Development
 
-* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,535 | 🐛 0 | 📅 2026-01-31
+* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,533 | 🐛 0 | 📅 2026-01-31
 * [Ecommerce Website Security](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList) ⭐ 132 | 🐛 1 | 📅 2020-10-02
 * [Stable System](https://github.com/theodesp/stable-systems-checklist) ⭐ 54 | 🐛 0 | 📅 2017-08-29
 * Plan
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,638 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,640 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -211,7 +211,7 @@
 
 ## <a id="Business"></a>Business
 
-* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,585 | 🐛 3 | 📅 2025-10-23
+* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,586 | 🐛 3 | 📅 2025-10-23
 * [SaaS Startup](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04
 * [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 18 | 🐛 0 | 📅 2018-12-08
 * [Startup-Test](https://github.com/nlra/Startup-Test)
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,306 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,305 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 747 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 96 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
