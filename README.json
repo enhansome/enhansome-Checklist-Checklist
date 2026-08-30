@@ -757,7 +757,7 @@
                     "open_issues": 7,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 73936,
+                    "stars": 73964,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1258,7 +1258,7 @@
                     "open_issues": 4,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 423,
+                    "stars": 424,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23306,
+            "stars": 23307,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:53:32.417Z",
+    "last_updated": "2026-08-30T18:11:12.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
