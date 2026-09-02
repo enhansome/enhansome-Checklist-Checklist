@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,004 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,015 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -130,7 +130,7 @@
 
 ### <a id="Web-App"></a>Web App
 
-* [Web Application Performance](https://github.com/antarestupin/performance-checklist) ⭐ 41 | 🐛 0 | 📅 2019-03-03 - Gathers performance practices to apply when developing a web application.
+* [Web Application Performance](https://github.com/antarestupin/performance-checklist) ⭐ 41 | 🐛 1 | 📅 2019-03-03 - Gathers performance practices to apply when developing a web application.
 * Security
   * by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 424 | 🐛 4 | 📅 2021-05-10
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
@@ -154,7 +154,7 @@
   * by [smtlaissezfaire](https://github.com/smtlaissezfaire/project_management/blob/master/project_management_checklist.txt) ⭐ 21 | 🐛 0 | 📅 2010-04-25
   * by [joelparkerhenderson](https://github.com/joelparkerhenderson/project_management_checklist) ⭐ 14 | 🐛 0 | 📅 2025-04-14
 * Open Source
-  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 665 | 🐛 3 | 📅 2025-12-12
+  * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 666 | 🐛 3 | 📅 2025-12-12
   * [Contribution](https://github.com/process-bot/contribution-checklist)
   * Open Source Project
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 216 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,641 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,642 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,307 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,308 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 747 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 96 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -307,7 +307,7 @@ To stay on the list, projects should follow these quality standards:
 * Generally used and useful to the community.
 * Actively maintained, i.e., take care of open issues and update lists.
 
-Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,964 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,965 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
 
 ## License
 
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
