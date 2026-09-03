@@ -757,7 +757,7 @@
                     "open_issues": 7,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74015,
+                    "stars": 74024,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:02:32.010Z",
+    "last_updated": "2026-09-03T18:03:23.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2965,
+      "stars": 2967,
       "topics": [
         "awesome",
         "awesome-list",

@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,015 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,024 | 🐛 7 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -307,7 +307,7 @@ To stay on the list, projects should follow these quality standards:
 * Generally used and useful to the community.
 * Actively maintained, i.e., take care of open issues and update lists.
 
-Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,965 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/huyingjie/checklist-checklist/graphs/contributors) ⭐ 2,967 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20, you're awesome and wouldn't be possible without you!
 
 ## License
 
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
