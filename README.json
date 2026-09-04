@@ -757,7 +757,7 @@
                     "open_issues": 7,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74024,
+                    "stars": 74034,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1255,7 +1255,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2021-05-10T07:48:47Z",
-                    "open_issues": 4,
+                    "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
                     "stars": 424,
@@ -2434,10 +2434,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-07-31T12:17:05Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23308,
+            "stars": 23310,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:03:23.583Z",
+    "last_updated": "2026-09-04T17:47:12.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2967,
+      "stars": 2968,
       "topics": [
         "awesome",
         "awesome-list",
