@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": null,
                     "last_commit": "2026-08-14T05:59:25Z",
-                    "open_issues": 7,
+                    "open_issues": 9,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74034,
+                    "stars": 74039,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2762,
+                    "stars": 2761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23310,
+            "stars": 23311,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:47:12.746Z",
+    "last_updated": "2026-09-05T16:56:06.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2968,
+      "stars": 2967,
       "topics": [
         "awesome",
         "awesome-list",
