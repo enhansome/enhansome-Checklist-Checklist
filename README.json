@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": null,
                     "last_commit": "2026-08-14T05:59:25Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74061,
+                    "stars": 74076,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1401,7 +1401,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "checklist-going-live",
-            "stars": 1533,
+            "stars": 1532,
             "topics": [
               "checklist",
               "live",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:51:13.383Z",
+    "last_updated": "2026-09-08T18:04:41.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
