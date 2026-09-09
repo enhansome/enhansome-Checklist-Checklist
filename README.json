@@ -633,7 +633,7 @@
                 "open_issues": 3,
                 "owner": "bahmutov",
                 "repo": "npm-module-checklist",
-                "stars": 126,
+                "stars": 125,
                 "topics": [
                   "advice",
                   "node",
@@ -757,7 +757,7 @@
                     "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74076,
+                    "stars": 74080,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2761,
+                    "stars": 2760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23313,
+            "stars": 23312,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:04:41.181Z",
+    "last_updated": "2026-09-09T17:58:48.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
