@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": null,
                     "last_commit": "2026-08-14T05:59:25Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74080,
+                    "stars": 74094,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2587,
+            "stars": 2589,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23312,
+            "stars": 23314,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:58:48.361Z",
+    "last_updated": "2026-09-10T17:51:42.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
