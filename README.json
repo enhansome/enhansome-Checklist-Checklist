@@ -99,7 +99,7 @@
                     "id": 75505344,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2025-12-17T19:08:08Z",
+                    "last_commit": "2026-09-14T00:14:06Z",
                     "open_issues": 3,
                     "owner": "grant",
                     "repo": "new-computer-checklist",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": null,
                     "last_commit": "2026-08-14T05:59:25Z",
-                    "open_issues": 11,
+                    "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74128,
+                    "stars": 74135,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5645,
+            "stars": 5646,
             "topics": [
               "automation",
               "marketing",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:38:26.365Z",
+    "last_updated": "2026-09-14T19:35:31.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2967,
+      "stars": 2968,
       "topics": [
         "awesome",
         "awesome-list",
