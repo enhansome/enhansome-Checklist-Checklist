@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4133,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74135,
+                    "stars": 74147,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:35:31.800Z",
+    "last_updated": "2026-09-15T18:28:13.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

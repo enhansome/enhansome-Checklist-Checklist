@@ -89,7 +89,7 @@
 
 ### <a id="Front-End-Development"></a>Front-End Development
 
-* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,132 | 🐛 1 | 📅 2023-07-04
+* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,133 | 🐛 1 | 📅 2023-07-04
 * [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 125 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,135 | 🐛 10 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,147 | 🐛 10 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
