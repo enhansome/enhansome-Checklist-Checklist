@@ -536,7 +536,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 81,
+                    "open_issues": 82,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1361,
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": null,
                     "last_commit": "2026-08-14T05:59:25Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74155,
+                    "stars": 74174,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -869,7 +869,7 @@
                     "open_issues": 1,
                     "owner": "grayghostvisuals",
                     "repo": "webdesignerschecklist",
-                    "stars": 415,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2180,7 +2180,7 @@
                 "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 501,
+                "stars": 502,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2586,7 +2586,7 @@
             "open_issues": 0,
             "owner": "paunin",
             "repo": "soa-checklist",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "architecture",
               "cluster",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:25:17.796Z",
+    "last_updated": "2026-09-17T18:32:18.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
