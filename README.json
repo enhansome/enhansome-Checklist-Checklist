@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4133,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74174,
+                    "stars": 74196,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5645,
+            "stars": 5648,
             "topics": [
               "automation",
               "marketing",
@@ -2071,7 +2071,7 @@
             "open_issues": 1,
             "owner": "tutsplus",
             "repo": "Marketing-Checklist-For-Indie-Game-Developers",
-            "stars": 87,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2588,
+            "stars": 2590,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23318,
+            "stars": 23319,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:32:18.497Z",
+    "last_updated": "2026-09-18T17:51:46.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2968,
+      "stars": 2969,
       "topics": [
         "awesome",
         "awesome-list",
