@@ -757,7 +757,7 @@
                     "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74196,
+                    "stars": 74202,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1599,27 +1599,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "by afonsopacifer",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
-                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
-                    "id": 44211461,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2016-04-11T20:38:49Z",
-                    "open_issues": 2,
-                    "owner": "afonsopacifer",
-                    "repo": "open-source-checklist",
-                    "stars": 216,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:40:28.254Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "by cfpb",
                   "description": null,
                   "children": [],
@@ -1634,6 +1613,27 @@
                     "open_issues": 6,
                     "owner": "cfpb",
                     "repo": "open-source-project-template",
+                    "stars": 217,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:40:28.254Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "by afonsopacifer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
+                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
+                    "id": 44211461,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2016-04-11T20:38:49Z",
+                    "open_issues": 2,
+                    "owner": "afonsopacifer",
+                    "repo": "open-source-checklist",
                     "stars": 216,
                     "topics": []
                   },
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5648,
+            "stars": 5650,
             "topics": [
               "automation",
               "marketing",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2590,
+            "stars": 2591,
             "topics": [
               "bizdev",
               "california",
@@ -2565,7 +2565,7 @@
             "open_issues": 0,
             "owner": "sqreen",
             "repo": "CTOSecurityChecklist",
-            "stars": 746,
+            "stars": 747,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:51:46.155Z",
+    "last_updated": "2026-09-19T17:25:56.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
