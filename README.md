@@ -83,7 +83,7 @@
   * [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist) ⭐ 8 | 🐛 1 | 🌐 Ruby | 📅 2016-03-14
   * Security
     * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,811 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
-    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 82 | 🌐 Ruby | 📅 2022-07-17
+    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,360 | 🐛 82 | 🌐 Ruby | 📅 2022-07-17
 
 ## <a id="Web-Development"></a>Web Development
 
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,212 | 🐛 11 | 🌐 MDX | 📅 2026-08-14
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,223 | 🐛 11 | 🌐 MDX | 📅 2026-08-14
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -224,7 +224,7 @@
 
 ## <a id="Games"></a>Games
 
-* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 364 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
+* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 363 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
 * [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
@@ -232,8 +232,8 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,320 | 🐛 2 | 📅 2026-07-21
-* [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 747 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,322 | 🐛 2 | 📅 2026-07-21
+* [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
 * [Network Health](https://github.com/fukawi2/NetworkHealthChecklist) ⭐ 29 | 🐛 1 | 📅 2019-03-06
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
