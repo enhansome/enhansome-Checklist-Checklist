@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4131,
+                "stars": 4132,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74289,
+                    "stars": 74297,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2759,
+                    "stars": 2760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1322,7 +1322,7 @@
                     "open_issues": 1,
                     "owner": "datamade",
                     "repo": "site-launch-checklist",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": [
                       "checklist",
                       "guide"
@@ -1587,7 +1587,7 @@
                 "open_issues": 3,
                 "owner": "ddbeck",
                 "repo": "readme-checklist",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1597,6 +1597,27 @@
               "title": "Open Source Project",
               "description": null,
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "by afonsopacifer",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
+                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
+                    "id": 44211461,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2016-04-11T20:38:49Z",
+                    "open_issues": 2,
+                    "owner": "afonsopacifer",
+                    "repo": "open-source-checklist",
+                    "stars": 217,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:40:28.254Z"
+                },
                 {
                   "node_type": "item",
                   "title": "by cfpb",
@@ -1614,27 +1635,6 @@
                     "owner": "cfpb",
                     "repo": "open-source-project-template",
                     "stars": 217,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:40:28.254Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "by afonsopacifer",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
-                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
-                    "id": 44211461,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2016-04-11T20:38:49Z",
-                    "open_issues": 2,
-                    "owner": "afonsopacifer",
-                    "repo": "open-source-checklist",
-                    "stars": 216,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1685,7 +1685,7 @@
                 "open_issues": 0,
                 "owner": "oisin",
                 "repo": "app-release-checklist",
-                "stars": 775,
+                "stars": 776,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5654,
+            "stars": 5657,
             "topics": [
               "automation",
               "marketing",
@@ -2180,7 +2180,7 @@
                 "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 503,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2201,7 +2201,7 @@
                 "open_issues": 6,
                 "owner": "mxsasha",
                 "repo": "lessobviouschecklist",
-                "stars": 382,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2593,
+            "stars": 2594,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23322,
+            "stars": 23327,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:38:37.039Z",
+    "last_updated": "2026-09-28T20:47:24.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2972,
+      "stars": 2973,
       "topics": [
         "awesome",
         "awesome-list",
