@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1812,
+                    "stars": 1813,
                     "topics": [
                       "checklist",
                       "rails",
@@ -539,7 +539,7 @@
                     "open_issues": 82,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1360,
+                    "stars": 1361,
                     "topics": [
                       "checklist",
                       "rails",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74297,
+                    "stars": 74312,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2180,7 +2180,7 @@
                 "open_issues": 1,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 504,
+                "stars": 501,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23327,
+            "stars": 23330,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T20:47:24.329Z",
+    "last_updated": "2026-09-29T19:37:57.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2973,
+      "stars": 2974,
       "topics": [
         "awesome",
         "awesome-list",
