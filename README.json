@@ -757,7 +757,7 @@
                     "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74312,
+                    "stars": 74320,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1177,7 +1177,7 @@
                     "open_issues": 3,
                     "owner": "jesusprubio",
                     "repo": "strong-node",
-                    "stars": 507,
+                    "stars": 506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5657,
+            "stars": 5658,
             "topics": [
               "automation",
               "marketing",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23330,
+            "stars": 23328,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:37:57.822Z",
+    "last_updated": "2026-09-30T19:37:16.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
