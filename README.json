@@ -757,7 +757,7 @@
                     "open_issues": 4,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74340,
+                    "stars": 74346,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23330,
+            "stars": 23331,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:21.301Z",
+    "last_updated": "2026-10-03T18:15:54.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
