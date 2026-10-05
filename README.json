@@ -536,7 +536,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 82,
+                    "open_issues": 83,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1361,
@@ -752,12 +752,12 @@
                     "homepage": "https://frontendchecklist.io",
                     "id": 107111421,
                     "language": "MDX",
-                    "license": null,
-                    "last_commit": "2026-10-01T04:09:02Z",
-                    "open_issues": 4,
+                    "license": "MIT",
+                    "last_commit": "2026-10-05T12:37:30Z",
+                    "open_issues": 5,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74356,
+                    "stars": 74372,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2593,
+            "stars": 2595,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23330,
+            "stars": 23331,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:20:59.884Z",
+    "last_updated": "2026-10-05T21:37:30.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
