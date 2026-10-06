@@ -753,7 +753,7 @@
                     "id": 107111421,
                     "language": "MDX",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T12:37:30Z",
+                    "last_commit": "2026-10-06T12:58:18Z",
                     "open_issues": 5,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
@@ -1599,27 +1599,6 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "by afonsopacifer",
-                  "description": "afonsopacifer/open-source-checklist",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
-                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
-                    "id": 44211461,
-                    "language": "HTML",
-                    "license": "MIT",
-                    "last_commit": "2016-04-11T20:38:49Z",
-                    "open_issues": 2,
-                    "owner": "afonsopacifer",
-                    "repo": "open-source-checklist",
-                    "stars": 217,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:40:28.254Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "by cfpb",
                   "description": "cfpb/open-source-project-template",
                   "children": [],
@@ -1635,6 +1614,27 @@
                     "owner": "cfpb",
                     "repo": "open-source-project-template",
                     "stars": 217,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:40:28.254Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "by afonsopacifer",
+                  "description": "afonsopacifer/open-source-checklist",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": ":octocat: A guide to help you remember important things when creating an open source project ;D",
+                    "homepage": "https://afonsopacifer.github.io/open-source-checklist",
+                    "id": 44211461,
+                    "language": "HTML",
+                    "license": "MIT",
+                    "last_commit": "2016-04-11T20:38:49Z",
+                    "open_issues": 2,
+                    "owner": "afonsopacifer",
+                    "repo": "open-source-checklist",
+                    "stars": 215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:52:44.836Z",
+    "last_updated": "2026-10-06T19:48:59.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
