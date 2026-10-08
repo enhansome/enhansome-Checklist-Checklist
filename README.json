@@ -757,7 +757,7 @@
                     "open_issues": 5,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74394,
+                    "stars": 74407,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1125,7 +1125,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2016-11-01T11:03:00Z",
-                    "open_issues": 3,
+                    "open_issues": 1,
                     "owner": "strozfriedberg",
                     "repo": "Docker-Secure-Deployment-Guidelines",
                     "stars": 608,
@@ -1318,7 +1318,7 @@
                     "id": 40607757,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-07-02T16:43:33Z",
+                    "last_commit": "2026-10-08T18:54:05Z",
                     "open_issues": 1,
                     "owner": "datamade",
                     "repo": "site-launch-checklist",
@@ -1875,7 +1875,7 @@
             "open_issues": 4,
             "owner": "RafaelFunchal",
             "repo": "wordpress-security-checklist",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2437,7 +2437,7 @@
             "open_issues": 4,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23334,
+            "stars": 23332,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:08:20.934Z",
+    "last_updated": "2026-10-08T20:07:00.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

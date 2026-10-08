@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,394 | 🐛 5 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,407 | 🐛 5 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -122,7 +122,7 @@
 * [Django](http://djangoappschecklist.com/) | [Code](https://github.com/vintasoftware/django-apps-checklist) ⭐ 103 | 🐛 3 | 📅 2019-07-24
 * [Magneto](https://github.com/magento-hackathon/upgrade-checklist) ⭐ 4 | 🐛 0 | 📅 2012-10-25
 * Docker
-  * [Security](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 608 | 🐛 3 | 📅 2016-11-01
+  * [Security](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 608 | 🐛 1 | 📅 2016-11-01
   * [Enterprise](https://github.com/nicolaka/checklist) ⭐ 45 | 🐛 0 | 📅 2017-10-17
 * Node.js
   * [Security](https://github.com/jesusprubio/strong-node) ⚠️ Archived
@@ -136,7 +136,7 @@
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
   * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 219 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
-  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 1 | 📅 2026-07-02
+  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 1 | 📅 2026-10-08
   * by [mapiec](https://github.com/mapiec/checklist) ⭐ 14 | 🐛 0 | 📅 2009-02-19
   * by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist) ⭐ 10 | 🐛 0 | 📅 2017-08-28
   * by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
@@ -174,7 +174,7 @@
 ## <a id="WordPress"></a>	WordPress
 
 * [Theme Approval Checklist for ThemeForest](https://github.com/hasinhayder/themeforest-wp-theme-approval-checklist) ⭐ 157 | 🐛 1 | 📅 2017-11-29
-* [Security](http://wpsecuritychecklist.org/items/) | [Code](https://github.com/RafaelFunchal/wordpress-security-checklist) ⭐ 125 | 🐛 4 | 🌐 SCSS | 📅 2026-07-27
+* [Security](http://wpsecuritychecklist.org/items/) | [Code](https://github.com/RafaelFunchal/wordpress-security-checklist) ⭐ 126 | 🐛 4 | 🌐 SCSS | 📅 2026-07-27
 * [SEO](https://github.com/douglasanro/wordpress-seo-checklist) ⭐ 33 | 🐛 0 | 📅 2017-08-27
 * Themes Review
   * by [thanhluu](https://github.com/thanhluu/wp-themes-review) ⭐ 40 | 🐛 1 | 📅 2015-10-21
@@ -224,7 +224,7 @@
 
 ## <a id="Games"></a>Games
 
-* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 363 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
+* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 364 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
 * [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,334 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,332 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
