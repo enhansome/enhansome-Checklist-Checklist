@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1813,
+                    "stars": 1814,
                     "topics": [
                       "checklist",
                       "rails",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74407,
+                    "stars": 74412,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5658,
+            "stars": 5657,
             "topics": [
               "automation",
               "marketing",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23332,
+            "stars": 23333,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:07:00.034Z",
+    "last_updated": "2026-10-09T19:44:52.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2975,
+      "stars": 2976,
       "topics": [
         "awesome",
         "awesome-list",
