@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1814,
+                    "stars": 1815,
                     "topics": [
                       "checklist",
                       "rails",
@@ -539,7 +539,7 @@
                     "open_issues": 83,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1361,
+                    "stars": 1362,
                     "topics": [
                       "checklist",
                       "rails",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -633,7 +633,7 @@
                 "open_issues": 3,
                 "owner": "bahmutov",
                 "repo": "npm-module-checklist",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "advice",
                   "node",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74440,
+                    "stars": 74450,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2760,
+                    "stars": 2761,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -918,7 +918,7 @@
                     "open_issues": 5,
                     "owner": "tutsplus",
                     "repo": "SEO-Checklist-for-Web-Designers",
-                    "stars": 277,
+                    "stars": 276,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1847,7 +1847,7 @@
             "open_issues": 1,
             "owner": "hasinhayder",
             "repo": "themeforest-wp-theme-approval-checklist",
-            "stars": 157,
+            "stars": 158,
             "topics": [
               "themeforest",
               "themeforest-wordpress-themes",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23331,
+            "stars": 23335,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:14:09.058Z",
+    "last_updated": "2026-10-13T20:21:05.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2977,
+      "stars": 2978,
       "topics": [
         "awesome",
         "awesome-list",
