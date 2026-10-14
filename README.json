@@ -536,10 +536,10 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 83,
+                    "open_issues": 84,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1362,
+                    "stars": 1361,
                     "topics": [
                       "checklist",
                       "rails",
@@ -757,7 +757,7 @@
                     "open_issues": 10,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74450,
+                    "stars": 74459,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1401,7 +1401,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "checklist-going-live",
-            "stars": 1533,
+            "stars": 1534,
             "topics": [
               "checklist",
               "live",
@@ -2437,7 +2437,7 @@
             "open_issues": 4,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 364,
+            "stars": 365,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23335,
+            "stars": 23334,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:21:05.431Z",
+    "last_updated": "2026-10-14T18:52:57.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
