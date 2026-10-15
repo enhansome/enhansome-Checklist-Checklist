@@ -536,7 +536,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 84,
+                    "open_issues": 85,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1361,
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74459,
+                    "stars": 74472,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1125,7 +1125,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2016-11-01T11:03:00Z",
-                    "open_issues": 1,
+                    "open_issues": 3,
                     "owner": "strozfriedberg",
                     "repo": "Docker-Secure-Deployment-Guidelines",
                     "stars": 608,
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23334,
+            "stars": 23333,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:52:57.380Z",
+    "last_updated": "2026-10-15T18:38:16.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
