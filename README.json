@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1815,
+                    "stars": 1814,
                     "topics": [
                       "checklist",
                       "rails",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4131,
+                "stars": 4130,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74472,
+                    "stars": 74477,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1319,7 +1319,7 @@
                     "language": null,
                     "license": "MIT",
                     "last_commit": "2026-10-08T18:54:05Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "datamade",
                     "repo": "site-launch-checklist",
                     "stars": 127,
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5661,
+            "stars": 5662,
             "topics": [
               "automation",
               "marketing",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "bizdev",
               "california",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:38:16.417Z",
+    "last_updated": "2026-10-16T18:20:39.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

@@ -82,14 +82,14 @@
 * Ruby on Rails
   * [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist) ⭐ 8 | 🐛 1 | 🌐 Ruby | 📅 2016-03-14
   * Security
-    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,815 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
+    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,814 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
     * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 85 | 🌐 Ruby | 📅 2022-07-17
 
 ## <a id="Web-Development"></a>Web Development
 
 ### <a id="Front-End-Development"></a>Front-End Development
 
-* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,131 | 🐛 1 | 📅 2023-07-04
+* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,130 | 🐛 1 | 📅 2023-07-04
 * [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,472 | 🐛 11 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,477 | 🐛 12 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -136,7 +136,7 @@
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
   * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 220 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
-  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 2 | 📅 2026-10-08
+  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 3 | 📅 2026-10-08
   * by [mapiec](https://github.com/mapiec/checklist) ⭐ 14 | 🐛 0 | 📅 2009-02-19
   * by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist) ⭐ 10 | 🐛 0 | 📅 2017-08-28
   * by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,661 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,662 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 85 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -211,7 +211,7 @@
 
 ## <a id="Business"></a>Business
 
-* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,598 | 🐛 3 | 📅 2025-10-23
+* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,599 | 🐛 3 | 📅 2025-10-23
 * [SaaS Startup](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04
 * [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 18 | 🐛 0 | 📅 2018-12-08
 * [Startup-Test](https://github.com/nlra/Startup-Test)
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
