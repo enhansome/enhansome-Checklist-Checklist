@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 12,
+                    "open_issues": 13,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74477,
+                    "stars": 74489,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1318,8 +1318,8 @@
                     "id": 40607757,
                     "language": null,
                     "license": "MIT",
-                    "last_commit": "2026-10-08T18:54:05Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-16T20:00:50Z",
+                    "open_issues": 2,
                     "owner": "datamade",
                     "repo": "site-launch-checklist",
                     "stars": 127,
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23333,
+            "stars": 23334,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:20:39.642Z",
+    "last_updated": "2026-10-17T17:31:50.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

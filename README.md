@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,477 | 🐛 12 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,489 | 🐛 13 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -136,7 +136,7 @@
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
   * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 220 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
-  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 3 | 📅 2026-10-08
+  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 2 | 📅 2026-10-16
   * by [mapiec](https://github.com/mapiec/checklist) ⭐ 14 | 🐛 0 | 📅 2009-02-19
   * by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist) ⭐ 10 | 🐛 0 | 📅 2017-08-28
   * by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,333 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,334 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
