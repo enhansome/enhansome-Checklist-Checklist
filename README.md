@@ -82,8 +82,8 @@
 * Ruby on Rails
   * [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist) ⭐ 8 | 🐛 1 | 🌐 Ruby | 📅 2016-03-14
   * Security
-    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,814 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
-    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,361 | 🐛 85 | 🌐 Ruby | 📅 2022-07-17
+    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,815 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
+    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 85 | 🌐 Ruby | 📅 2022-07-17
 
 ## <a id="Web-Development"></a>Web Development
 
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,497 | 🐛 13 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,517 | 🐛 14 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -144,7 +144,7 @@
 
 ## <a id="App-Project-Development"></a>App & Project Development
 
-* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,534 | 🐛 0 | 📅 2026-09-07
+* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,535 | 🐛 0 | 📅 2026-09-07
 * [Ecommerce Website Security](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList) ⭐ 132 | 🐛 1 | 📅 2020-10-02
 * [Stable System](https://github.com/theodesp/stable-systems-checklist) ⭐ 54 | 🐛 0 | 📅 2017-08-29
 * Plan
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,663 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,665 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 85 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 502 | 🐛 2 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 503 | 🐛 2 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -224,15 +224,15 @@
 
 ## <a id="Games"></a>Games
 
-* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 365 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
-* [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 84 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
+* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 366 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
+* [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
   * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,333 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,334 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
