@@ -757,7 +757,7 @@
                     "open_issues": 14,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74525,
+                    "stars": 74539,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2600,
+            "stars": 2601,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23335,
+            "stars": 23340,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:43:10.625Z",
+    "last_updated": "2026-10-21T18:54:24.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2982,
+      "stars": 2983,
       "topics": [
         "awesome",
         "awesome-list",
