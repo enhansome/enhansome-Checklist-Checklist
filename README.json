@@ -352,7 +352,7 @@
                 "open_issues": 3,
                 "owner": "reinink",
                 "repo": "phppackagechecklist.com",
-                "stars": 135,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4129,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 13,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74551,
+                    "stars": 74560,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -869,7 +869,7 @@
                     "open_issues": 1,
                     "owner": "grayghostvisuals",
                     "repo": "webdesignerschecklist",
-                    "stars": 415,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5669,
+            "stars": 5670,
             "topics": [
               "automation",
               "marketing",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23335,
+            "stars": 23336,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:42:18.608Z",
+    "last_updated": "2026-10-24T17:35:07.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
