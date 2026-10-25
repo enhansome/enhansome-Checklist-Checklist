@@ -757,7 +757,7 @@
                     "open_issues": 13,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74560,
+                    "stars": 74562,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5670,
+            "stars": 5671,
             "topics": [
               "automation",
               "marketing",
@@ -2434,10 +2434,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-09-06T22:47:43Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 366,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23336,
+            "stars": 23337,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:35:07.117Z",
+    "last_updated": "2026-10-25T17:50:44.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,560 | 🐛 13 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,562 | 🐛 13 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,670 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,671 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 85 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -224,7 +224,7 @@
 
 ## <a id="Games"></a>Games
 
-* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 366 | 🐛 4 | 🌐 HTML | 📅 2026-09-06
+* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 367 | 🐛 5 | 🌐 HTML | 📅 2026-09-06
 * [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,336 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,337 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
