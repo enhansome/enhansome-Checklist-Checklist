@@ -536,7 +536,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 85,
+                    "open_issues": 86,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1362,
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 13,
+                    "open_issues": 16,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74562,
+                    "stars": 74569,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -869,7 +869,7 @@
                     "open_issues": 1,
                     "owner": "grayghostvisuals",
                     "repo": "webdesignerschecklist",
-                    "stars": 414,
+                    "stars": 413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1685,7 +1685,7 @@
                 "open_issues": 0,
                 "owner": "oisin",
                 "repo": "app-release-checklist",
-                "stars": 776,
+                "stars": 777,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5671,
+            "stars": 5672,
             "topics": [
               "automation",
               "marketing",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2600,
+            "stars": 2599,
             "topics": [
               "bizdev",
               "california",
@@ -2437,7 +2437,7 @@
             "open_issues": 5,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2505,7 +2505,7 @@
                 "open_issues": 1,
                 "owner": "GiacomoLaw",
                 "repo": "pokefinder",
-                "stars": 5,
+                "stars": 4,
                 "topics": [
                   "checklist",
                   "pokedex",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:50:44.538Z",
+    "last_updated": "2026-10-26T20:08:13.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2983,
+      "stars": 2985,
       "topics": [
         "awesome",
         "awesome-list",

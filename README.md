@@ -83,7 +83,7 @@
   * [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist) ⭐ 8 | 🐛 1 | 🌐 Ruby | 📅 2016-03-14
   * Security
     * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,815 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
-    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 85 | 🌐 Ruby | 📅 2022-07-17
+    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 86 | 🌐 Ruby | 📅 2022-07-17
 
 ## <a id="Web-Development"></a>Web Development
 
@@ -97,14 +97,14 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,562 | 🐛 13 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,569 | 🐛 16 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
 * Web Design
   * by [Heydon](https://github.com/Heydon/inclusive-design-checklist) ⭐ 2,761 | 🐛 3 | 🌐 JavaScript | 📅 2020-06-11
-  * by [grayghostvisuals](https://github.com/grayghostvisuals/webdesignerschecklist) ⭐ 414 | 🐛 1 | 🌐 ApacheConf | 📅 2017-06-09
+  * by [grayghostvisuals](https://github.com/grayghostvisuals/webdesignerschecklist) ⭐ 413 | 🐛 1 | 🌐 ApacheConf | 📅 2017-06-09
   * by [Imaginarydesign](http://imaginarydesign.github.io/webdev-checklist/) | [Code](https://github.com/Imaginarydesign/webdev-checklist) ⭐ 140 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-11
   * by [actum](https://github.com/actum/frontend-checklist)
 * SEO
@@ -161,7 +161,7 @@
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 215 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
     * by [jollygoodcode](https://github.com/jollygoodcode/Open_Source_Checklist) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2016-01-12
 * iOS App Developmenet
-  * by [oisin](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) ⭐ 776 | 🐛 0 | 📅 2019-03-04
+  * by [oisin](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) ⭐ 777 | 🐛 0 | 📅 2019-03-04
   * by [ahmedragab](https://github.com/ahmedragab/iOS-Checklist/wiki) ⭐ 9 | 🐛 0 | 📅 2015-01-14
 * Submit to AppStore
   * by [acomito](https://github.com/acomito/expo-to-appstore-checklist) ⭐ 154 | 🐛 3 | 📅 2020-12-31
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,671 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,672 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 85 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -211,7 +211,7 @@
 
 ## <a id="Business"></a>Business
 
-* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,600 | 🐛 3 | 📅 2025-10-23
+* [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,599 | 🐛 3 | 📅 2025-10-23
 * [SaaS Startup](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04
 * [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 18 | 🐛 0 | 📅 2018-12-08
 * [Startup-Test](https://github.com/nlra/Startup-Test)
@@ -224,11 +224,11 @@
 
 ## <a id="Games"></a>Games
 
-* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 367 | 🐛 5 | 🌐 HTML | 📅 2026-09-06
+* [Dark Souls 3](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/) | [Code](https://github.com/ZKjellberg/dark-souls-3-cheat-sheet) ⭐ 368 | 🐛 5 | 🌐 HTML | 📅 2026-09-06
 * [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
-  * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
+  * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 4 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
