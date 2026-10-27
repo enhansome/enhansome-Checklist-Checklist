@@ -757,7 +757,7 @@
                     "open_issues": 16,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74569,
+                    "stars": 74574,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1128,7 +1128,7 @@
                     "open_issues": 3,
                     "owner": "strozfriedberg",
                     "repo": "Docker-Secure-Deployment-Guidelines",
-                    "stars": 608,
+                    "stars": 605,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23337,
+            "stars": 23338,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:08:13.529Z",
+    "last_updated": "2026-10-27T19:37:51.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2985,
+      "stars": 2984,
       "topics": [
         "awesome",
         "awesome-list",

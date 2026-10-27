@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,569 | 🐛 16 | 🌐 MDX | 📅 2026-10-06
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,574 | 🐛 16 | 🌐 MDX | 📅 2026-10-06
   * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -122,7 +122,7 @@
 * [Django](http://djangoappschecklist.com/) | [Code](https://github.com/vintasoftware/django-apps-checklist) ⭐ 103 | 🐛 3 | 📅 2019-07-24
 * [Magneto](https://github.com/magento-hackathon/upgrade-checklist) ⭐ 4 | 🐛 0 | 📅 2012-10-25
 * Docker
-  * [Security](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 608 | 🐛 3 | 📅 2016-11-01
+  * [Security](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 605 | 🐛 3 | 📅 2016-11-01
   * [Enterprise](https://github.com/nicolaka/checklist) ⭐ 45 | 🐛 0 | 📅 2017-10-17
 * Node.js
   * [Security](https://github.com/jesusprubio/strong-node) ⚠️ Archived
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,337 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,338 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 746 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
