@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-06T12:58:18Z",
-                    "open_issues": 16,
+                    "open_issues": 17,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74586,
+                    "stars": 74597,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2761,
+                    "stars": 2762,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1258,7 +1258,7 @@
                     "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 425,
+                    "stars": 424,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -1401,7 +1401,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "checklist-going-live",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "checklist",
               "live",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5672,
+            "stars": 5674,
             "topics": [
               "automation",
               "marketing",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:52:02.388Z",
+    "last_updated": "2026-10-29T19:50:50.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2986,
+      "stars": 2984,
       "topics": [
         "awesome",
         "awesome-list",
