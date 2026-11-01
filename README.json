@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1815,
+                    "stars": 1814,
                     "topics": [
                       "checklist",
                       "rails",
@@ -757,7 +757,7 @@
                     "open_issues": 18,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74613,
+                    "stars": 74621,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -794,7 +794,7 @@
                     "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "checklist",
                       "frontend",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2760,
+                    "stars": 2759,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1401,7 +1401,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "checklist-going-live",
-            "stars": 1535,
+            "stars": 1536,
             "topics": [
               "checklist",
               "live",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5676,
+            "stars": 5675,
             "topics": [
               "automation",
               "marketing",
@@ -2177,7 +2177,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
                 "stars": 504,
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2600,
+            "stars": 2601,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23341,
+            "stars": 23342,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:44:30.300Z",
+    "last_updated": "2026-11-01T19:11:26.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
