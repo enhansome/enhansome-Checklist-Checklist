@@ -536,7 +536,7 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 86,
+                    "open_issues": 88,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
                     "stars": 1362,
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-31T05:44:22Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74621,
+                    "stars": 74637,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1177,7 +1177,7 @@
                     "open_issues": 3,
                     "owner": "jesusprubio",
                     "repo": "strong-node",
-                    "stars": 507,
+                    "stars": 506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1258,7 +1258,7 @@
                     "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 424,
+                    "stars": 423,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5675,
+            "stars": 5677,
             "topics": [
               "automation",
               "marketing",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2601,
+            "stars": 2602,
             "topics": [
               "bizdev",
               "california",
@@ -2505,7 +2505,7 @@
                 "open_issues": 1,
                 "owner": "GiacomoLaw",
                 "repo": "pokefinder",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "checklist",
                   "pokedex",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23342,
+            "stars": 23341,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:11:26.394Z",
+    "last_updated": "2026-11-02T22:53:13.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2985,
+      "stars": 2986,
       "topics": [
         "awesome",
         "awesome-list",
