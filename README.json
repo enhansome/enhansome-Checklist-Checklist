@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-31T05:44:22Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74643,
+                    "stars": 74647,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5677,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -2177,10 +2177,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 504,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23343,
+            "stars": 23344,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:37:22.116Z",
+    "last_updated": "2026-11-04T20:55:29.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
