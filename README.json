@@ -103,7 +103,7 @@
                     "open_issues": 3,
                     "owner": "grant",
                     "repo": "new-computer-checklist",
-                    "stars": 38,
+                    "stars": 39,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -536,10 +536,10 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2022-07-17T16:46:46Z",
-                    "open_issues": 90,
+                    "open_issues": 91,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1362,
+                    "stars": 1363,
                     "topics": [
                       "checklist",
                       "rails",
@@ -757,7 +757,7 @@
                     "open_issues": 20,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74655,
+                    "stars": 74666,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1871,8 +1871,8 @@
             "id": 28694211,
             "language": "SCSS",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-27T04:18:46Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-06T05:33:28Z",
+            "open_issues": 0,
             "owner": "RafaelFunchal",
             "repo": "wordpress-security-checklist",
             "stars": 126,
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5677,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -2279,7 +2279,7 @@
             "open_issues": 3,
             "owner": "leonar15",
             "repo": "startup-checklist",
-            "stars": 2602,
+            "stars": 2603,
             "topics": [
               "bizdev",
               "california",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23341,
+            "stars": 23345,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:13:23.218Z",
+    "last_updated": "2026-11-06T20:33:56.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
