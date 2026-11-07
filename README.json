@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4130,
+                "stars": 4131,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-31T05:44:22Z",
-                    "open_issues": 20,
+                    "open_issues": 21,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74666,
+                    "stars": 74669,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23345,
+            "stars": 23346,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:33:56.899Z",
+    "last_updated": "2026-11-07T19:01:39.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
