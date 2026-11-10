@@ -134,7 +134,7 @@
             "open_issues": 7,
             "owner": "vintasoftware",
             "repo": "python-api-checklist",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "api-rest",
               "python"
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4133,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 21,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74686,
+                    "stars": 74698,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23347,
+            "stars": 23348,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:33:54.286Z",
+    "last_updated": "2026-11-10T20:59:37.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",

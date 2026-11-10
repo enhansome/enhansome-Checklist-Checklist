@@ -60,7 +60,7 @@
 
 ## <a id="Programming-Languages"></a>Programming Languages
 
-* [Python API](http://python.apichecklist.com/) | [Code](https://github.com/vintasoftware/python-api-checklist) ⭐ 332 | 🐛 7 | 📅 2018-12-08
+* [Python API](http://python.apichecklist.com/) | [Code](https://github.com/vintasoftware/python-api-checklist) ⭐ 333 | 🐛 7 | 📅 2018-12-08
 * [JavaScript project](http://bitovi.github.io/checklist/) | [Code](https://github.com/bitovi/checklist) ⭐ 154 | 🐛 6 | 🌐 JavaScript | 📅 2019-08-15 | [Video](https://www.youtube.com/watch?v=20ebllexvuc)
 * [Symfony2 deployment](http://www.symfony2-checklist.com/) | [Code](https://github.com/winzou/symfony2-checklist) ⭐ 136 | 🐛 7 | 🌐 GCC Machine Description | 📅 2017-04-04
 * [Go](https://github.com/huytd/golang-checklist) ⭐ 25 | 🐛 0 | 📅 2015-10-14
@@ -89,7 +89,7 @@
 
 ### <a id="Front-End-Development"></a>Front-End Development
 
-* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,132 | 🐛 1 | 📅 2023-07-04
+* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,133 | 🐛 1 | 📅 2023-07-04
 * [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,686 | 🐛 21 | 🌐 MDX | 📅 2026-10-31
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,698 | 🐛 21 | 🌐 MDX | 📅 2026-10-31
   * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,347 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,348 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 745 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
