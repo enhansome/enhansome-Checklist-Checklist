@@ -757,7 +757,7 @@
                     "open_issues": 21,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74698,
+                    "stars": 74709,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -848,7 +848,7 @@
                     "open_issues": 3,
                     "owner": "Heydon",
                     "repo": "inclusive-design-checklist",
-                    "stars": 2759,
+                    "stars": 2758,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -869,7 +869,7 @@
                     "open_issues": 1,
                     "owner": "grayghostvisuals",
                     "repo": "webdesignerschecklist",
-                    "stars": 413,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1128,7 +1128,7 @@
                     "open_issues": 3,
                     "owner": "strozfriedberg",
                     "repo": "Docker-Secure-Deployment-Guidelines",
-                    "stars": 605,
+                    "stars": 604,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1871,8 +1871,8 @@
             "id": 28694211,
             "language": "SCSS",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-06T05:33:28Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-11T05:10:40Z",
+            "open_issues": 2,
             "owner": "RafaelFunchal",
             "repo": "wordpress-security-checklist",
             "stars": 126,
@@ -2045,7 +2045,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5680,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -2180,7 +2180,7 @@
                 "open_issues": 2,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 506,
+                "stars": 508,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2539,7 +2539,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23348,
+            "stars": 23351,
             "topics": [
               "api",
               "jwt",
@@ -2760,7 +2760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:59:37.241Z",
+    "last_updated": "2026-11-11T21:34:51.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2772,7 +2772,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2986,
+      "stars": 2987,
       "topics": [
         "awesome",
         "awesome-list",
