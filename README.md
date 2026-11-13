@@ -72,7 +72,7 @@
   * [Java EE 8](https://github.com/hantsy/awesome-javaee8) ⭐ 56 | 🐛 1 | 📅 2024-01-31
   * [a new Java contract / project / employee](https://github.com/marco76/java-project-checklist) ⭐ 5 | 🐛 0 | 📅 2016-05-03
 * PHP
-  * [Package](http://phppackagechecklist.com/#1,2,3,4,5,6,7,8,9,10,11,12,13,14) | [Code](https://github.com/reinink/phppackagechecklist.com) ⭐ 134 | 🐛 3 | 🌐 HTML | 📅 2020-01-15
+  * [Package](http://phppackagechecklist.com/#1,2,3,4,5,6,7,8,9,10,11,12,13,14) | [Code](https://github.com/reinink/phppackagechecklist.com) ⭐ 133 | 🐛 3 | 🌐 HTML | 📅 2020-01-15
   * [Project](https://github.com/codeinphp/php-project-checklist) ⭐ 7 | 🐛 0 | 📅 2014-09-10
   * Security
     * by [sk89q](https://github.com/sk89q/php-security-checklist) ⭐ 60 | 🐛 0 | 📅 2015-06-21
@@ -82,23 +82,23 @@
 * Ruby on Rails
   * [Upgrade](http://www.rails-upgrade-checklist.com/) | [Code](https://github.com/jwo/rails-upgrade_checklist) ⭐ 8 | 🐛 1 | 🌐 Ruby | 📅 2016-03-14
   * Security
-    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,811 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
-    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,362 | 🐛 92 | 🌐 Ruby | 📅 2022-07-17
+    * by [brunofacca](https://github.com/brunofacca/zen-rails-security-checklist) ⭐ 1,812 | 🐛 1 | 🌐 Ruby | 📅 2020-03-09
+    * by [eliotsykes](https://github.com/eliotsykes/rails-security-checklist) ⭐ 1,363 | 🐛 92 | 🌐 Ruby | 📅 2022-07-17
 
 ## <a id="Web-Development"></a>Web Development
 
 ### <a id="Front-End-Development"></a>Front-End Development
 
 * [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,133 | 🐛 1 | 📅 2023-07-04
-* [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 229 | 🐛 0 | 📅 2017-10-20
+* [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 230 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
-* [Accessibility](https://github.com/irekrog/accessibility-checklist) ⭐ 42 | 🐛 1 | 📅 2019-09-19
+* [Accessibility](https://github.com/irekrog/accessibility-checklist) ⭐ 43 | 🐛 0 | 📅 2026-11-13
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
-* [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
+* [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 9 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,715 | 🐛 21 | 🌐 MDX | 📅 2026-10-31
-  * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,726 | 🐛 22 | 🌐 MDX | 📅 2026-10-31
+  * by [drublic](https://github.com/drublic/checklist) ⭐ 284 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
@@ -111,7 +111,7 @@
   * by [tutsplus](https://webdesign.tutsplus.com/articles/a-web-designers-seo-checklist-including-portable-formats--webdesign-10740) | [Code](https://github.com/tutsplus/SEO-Checklist-for-Web-Designers) ⭐ 276 | 🐛 5 | 📅 2021-09-30
   * by [ibandominguez](https://github.com/ibandominguez/seo-checklist) ⭐ 73 | 🐛 0 | 📅 2017-10-21
 * React
-  * by [harrisrobin](https://github.com/harrisrobin/react-native-checklist) ⭐ 130 | 🐛 0 | 📅 2017-11-29 - A check list to refer to before starting a react-native project
+  * by [harrisrobin](https://github.com/harrisrobin/react-native-checklist) ⭐ 131 | 🐛 0 | 📅 2017-11-29 - A check list to refer to before starting a react-native project
   * [Upgrading ES5 React to ES6+](https://github.com/cht8687/React-ES5-To-ES6-Checklist) ⭐ 106 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-05
 * Drupal
   * [Drupal 8](https://github.com/theodorosploumis/drupal8-checklist) ⚠️ Archived
@@ -119,7 +119,7 @@
 
 ### <a id="Back-End-Development"></a>Back-End Development
 
-* [Django](http://djangoappschecklist.com/) | [Code](https://github.com/vintasoftware/django-apps-checklist) ⭐ 103 | 🐛 3 | 📅 2019-07-24
+* [Django](http://djangoappschecklist.com/) | [Code](https://github.com/vintasoftware/django-apps-checklist) ⭐ 104 | 🐛 3 | 📅 2019-07-24
 * [Magneto](https://github.com/magento-hackathon/upgrade-checklist) ⭐ 4 | 🐛 0 | 📅 2012-10-25
 * Docker
   * [Security](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines) ⭐ 604 | 🐛 3 | 📅 2016-11-01
@@ -132,11 +132,11 @@
 
 * [Web Application Performance](https://github.com/antarestupin/performance-checklist) ⭐ 41 | 🐛 1 | 📅 2019-03-03 - Gathers performance practices to apply when developing a web application.
 * Security
-  * by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 423 | 🐛 2 | 📅 2021-05-10
+  * by [virajkulkarni14](https://github.com/virajkulkarni14/WebDeveloperSecurityChecklist) ⭐ 424 | 🐛 2 | 📅 2021-05-10
   * by [iamthefrogy](https://github.com/iamthefrogy/Application-Security/blob/master/Web-Security/security-assessment-checklist.md)
 * Launch
   * by [HarrisJT](https://weblaunchchecklist.com/) | [Code](https://github.com/HarrisJT/web-launch-checklist) ⭐ 220 | 🐛 1 | 🌐 HTML | 📅 2018-10-29
-  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 127 | 🐛 2 | 📅 2026-10-16
+  * by [datamade](https://github.com/datamade/site-launch-checklist) ⭐ 128 | 🐛 2 | 📅 2026-10-16
   * by [mapiec](https://github.com/mapiec/checklist) ⭐ 14 | 🐛 0 | 📅 2009-02-19
   * by [siddharthashok](https://github.com/siddharthashok/Site-Launch-Checklist) ⭐ 10 | 🐛 0 | 📅 2017-08-28
   * by [Opquast](https://www.opquast.com/opquast-web-quality-checklist/) - Include checklists for Ecommerce website and issue certificates
@@ -144,7 +144,7 @@
 
 ## <a id="App-Project-Development"></a>App & Project Development
 
-* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,536 | 🐛 0 | 📅 2026-10-22
+* [All projects that are going live](https://github.com/spatie/checklist-going-live) ⭐ 1,538 | 🐛 0 | 📅 2026-10-22
 * [Ecommerce Website Security](https://github.com/IamHDT/Ecommerce-Website-Security-CheckList) ⭐ 132 | 🐛 1 | 📅 2020-10-02
 * [Stable System](https://github.com/theodesp/stable-systems-checklist) ⭐ 54 | 🐛 0 | 📅 2017-08-29
 * Plan
@@ -157,7 +157,7 @@
   * [README](https://github.com/ddbeck/readme-checklist/blob/master/checklist.md) ⭐ 667 | 🐛 3 | 📅 2025-12-12
   * [Contribution](https://github.com/process-bot/contribution-checklist)
   * Open Source Project
-    * by [cfpb](https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md) ⭐ 217 | 🐛 6 | 📅 2023-03-04
+    * by [cfpb](https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md) ⭐ 216 | 🐛 6 | 📅 2023-03-04
     * by [afonsopacifer](https://github.com/afonsopacifer/open-source-checklist) ⭐ 215 | 🐛 2 | 🌐 HTML | 📅 2016-04-11
     * by [jollygoodcode](https://github.com/jollygoodcode/Open_Source_Checklist) ⭐ 7 | 🐛 0 | 🌐 Ruby | 📅 2016-01-12
 * iOS App Developmenet
@@ -174,7 +174,7 @@
 ## <a id="WordPress"></a>	WordPress
 
 * [Theme Approval Checklist for ThemeForest](https://github.com/hasinhayder/themeforest-wp-theme-approval-checklist) ⭐ 158 | 🐛 1 | 📅 2017-11-29
-* [Security](http://wpsecuritychecklist.org/items/) | [Code](https://github.com/RafaelFunchal/wordpress-security-checklist) ⭐ 126 | 🐛 2 | 🌐 SCSS | 📅 2026-11-11
+* [Security](http://wpsecuritychecklist.org/items/) | [Code](https://github.com/RafaelFunchal/wordpress-security-checklist) ⭐ 127 | 🐛 0 | 🌐 SCSS | 📅 2026-11-13
 * [SEO](https://github.com/douglasanro/wordpress-seo-checklist) ⭐ 33 | 🐛 0 | 📅 2017-08-27
 * Themes Review
   * by [thanhluu](https://github.com/thanhluu/wp-themes-review) ⭐ 40 | 🐛 1 | 📅 2015-10-21
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,679 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,680 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 85 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 508 | 🐛 2 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 509 | 🐛 2 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -213,14 +213,14 @@
 
 * [Startup Incorporation](https://github.com/leonar15/startup-checklist) ⭐ 2,605 | 🐛 3 | 📅 2025-10-23
 * [SaaS Startup](https://github.com/slashdotdash/saas-startup-checklist) ⭐ 131 | 🐛 1 | 📅 2021-10-04
-* [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 18 | 🐛 0 | 📅 2018-12-08
+* [Crisis Management](http://crisismanagement.devchecklists.com/) | [Code](https://github.com/vintasoftware/crisis-management-checklist) ⭐ 19 | 🐛 0 | 📅 2018-12-08
 * [Startup-Test](https://github.com/nlra/Startup-Test)
 
 ## <a id="Travelling"></a>Travelling
 
 * [US](https://github.com/xzyfer/us-travel-checklist) ⭐ 73 | 🐛 3 | 📅 2013-08-28
 * [Abroad](https://github.com/jpcaparas/travel-checklist) ⭐ 11 | 🐛 0 | 📅 2017-08-01
-* [Hiking](https://github.com/histrio/awesome-hiking) ⭐ 5 | 🐛 0 | 📅 2023-04-02
+* [Hiking](https://github.com/histrio/awesome-hiking) ⭐ 6 | 🐛 0 | 📅 2023-04-02
 
 ## <a id="Games"></a>Games
 
@@ -228,11 +228,11 @@
 * [Dark Souls 2](http://smcnabb.github.io/dark-souls-2-cheat-sheet/) | [Code](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2026-07-01
 * Pokemon
   * [Multiple checklists](http://pokemonpostgame.com/) | [Code](https://github.com/PhilMurwin/PokemonChecklists) ⭐ 44 | 🐛 0 | 🌐 HTML | 📅 2026-08-19
-  * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 5 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
+  * [Pokefinder](http://giacomolaw.me/pokefinder/) | [Code](https://github.com/GiacomoLaw/pokefinder) ⭐ 6 | 🐛 1 | 🌐 HTML | 📅 2019-06-28
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,352 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,355 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 745 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
