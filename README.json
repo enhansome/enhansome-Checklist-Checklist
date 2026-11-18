@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4133,
+                "stars": 4132,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -754,10 +754,10 @@
                     "language": "MDX",
                     "license": "MIT",
                     "last_commit": "2026-10-31T05:44:22Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74762,
+                    "stars": 74774,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2049,7 +2049,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5680,
+            "stars": 5679,
             "topics": [
               "automation",
               "marketing",
@@ -2181,10 +2181,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:38:11.357Z",
+    "last_updated": "2026-11-18T22:19:43.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2776,7 +2776,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2989,
+      "stars": 2990,
       "topics": [
         "awesome",
         "awesome-list",

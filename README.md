@@ -89,7 +89,7 @@
 
 ### <a id="Front-End-Development"></a>Front-End Development
 
-* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,133 | 🐛 1 | 📅 2023-07-04
+* [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,132 | 🐛 1 | 📅 2023-07-04
 * [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 230 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
@@ -97,7 +97,7 @@
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 9 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,762 | 🐛 22 | 🌐 MDX | 📅 2026-10-31
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,774 | 🐛 23 | 🌐 MDX | 📅 2026-10-31
   * by [drublic](https://github.com/drublic/checklist) ⭐ 284 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
@@ -187,7 +187,7 @@
 
 ## <a id="Marketing"></a>Marketing
 
-* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,680 | 🐛 4 | 📅 2021-11-08
+* [Side Project Marketing](https://github.com/karllhughes/side-project-marketing/blob/master/marketing-checklist.md) ⭐ 5,679 | 🐛 4 | 📅 2021-11-08
 * [Marketing Checklist for Indie Game Developers](https://gamedevelopment.tutsplus.com/articles/an-indie-game-developers-marketing-checklist-including-portable-formats--gamedev-7560) | [Code](https://github.com/tutsplus/Marketing-Checklist-For-Indie-Game-Developers) ⭐ 86 | 🐛 1 | 📅 2013-05-08
 
 ## <a id="Personal-Security"></a>Personal Security
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 510 | 🐛 2 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 511 | 🐛 3 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
