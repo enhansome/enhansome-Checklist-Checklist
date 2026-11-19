@@ -134,7 +134,7 @@
             "open_issues": 7,
             "owner": "vintasoftware",
             "repo": "python-api-checklist",
-            "stars": 333,
+            "stars": 332,
             "topics": [
               "api-rest",
               "python"
@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "brunofacca",
                     "repo": "zen-rails-security-checklist",
-                    "stars": 1811,
+                    "stars": 1809,
                     "topics": [
                       "checklist",
                       "rails",
@@ -539,7 +539,7 @@
                     "open_issues": 92,
                     "owner": "eliotsykes",
                     "repo": "rails-security-checklist",
-                    "stars": 1363,
+                    "stars": 1361,
                     "topics": [
                       "checklist",
                       "rails",
@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4132,
+                "stars": 4129,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -609,7 +609,7 @@
                 "open_issues": 0,
                 "owner": "shekhargulati",
                 "repo": "building-java-web-apps-checklist",
-                "stars": 230,
+                "stars": 228,
                 "topics": [
                   "checklist",
                   "java"
@@ -679,7 +679,7 @@
                 "open_issues": 0,
                 "owner": "irekrog",
                 "repo": "accessibility-checklist",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "accessibility",
                   "aria",
@@ -727,7 +727,7 @@
                 "open_issues": 0,
                 "owner": "soleo",
                 "repo": "front-end-building-checklist",
-                "stars": 9,
+                "stars": 8,
                 "topics": [
                   "checklist",
                   "documentation",
@@ -757,7 +757,7 @@
                     "open_issues": 23,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74774,
+                    "stars": 74781,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -794,7 +794,7 @@
                     "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 284,
+                    "stars": 282,
                     "topics": [
                       "checklist",
                       "frontend",
@@ -869,7 +869,7 @@
                     "open_issues": 1,
                     "owner": "grayghostvisuals",
                     "repo": "webdesignerschecklist",
-                    "stars": 414,
+                    "stars": 413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -967,7 +967,7 @@
                     "open_issues": 0,
                     "owner": "harrisrobin",
                     "repo": "react-native-checklist",
-                    "stars": 131,
+                    "stars": 130,
                     "topics": [
                       "checklist",
                       "react-native",
@@ -1077,7 +1077,7 @@
                 "open_issues": 3,
                 "owner": "vintasoftware",
                 "repo": "django-apps-checklist",
-                "stars": 104,
+                "stars": 103,
                 "topics": [
                   "apps",
                   "checklist",
@@ -1128,7 +1128,7 @@
                     "open_issues": 3,
                     "owner": "strozfriedberg",
                     "repo": "Docker-Secure-Deployment-Guidelines",
-                    "stars": 604,
+                    "stars": 603,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1177,7 +1177,7 @@
                     "open_issues": 3,
                     "owner": "jesusprubio",
                     "repo": "strong-node",
-                    "stars": 506,
+                    "stars": 505,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1258,7 +1258,7 @@
                     "open_issues": 2,
                     "owner": "virajkulkarni14",
                     "repo": "WebDeveloperSecurityChecklist",
-                    "stars": 425,
+                    "stars": 422,
                     "topics": [
                       "checklist",
                       "information-security",
@@ -1290,7 +1290,7 @@
                     "open_issues": 1,
                     "owner": "HarrisJT",
                     "repo": "web-launch-checklist",
-                    "stars": 220,
+                    "stars": 219,
                     "topics": [
                       "accessibility",
                       "checklist",
@@ -1322,7 +1322,7 @@
                     "open_issues": 2,
                     "owner": "datamade",
                     "repo": "site-launch-checklist",
-                    "stars": 128,
+                    "stars": 127,
                     "topics": [
                       "checklist",
                       "guide"
@@ -1401,7 +1401,7 @@
             "open_issues": 0,
             "owner": "spatie",
             "repo": "checklist-going-live",
-            "stars": 1538,
+            "stars": 1537,
             "topics": [
               "checklist",
               "live",
@@ -1875,7 +1875,7 @@
             "open_issues": 0,
             "owner": "WP-Security-Checklist",
             "repo": "website",
-            "stars": 127,
+            "stars": 126,
             "topics": [
               "checklist",
               "security",
@@ -2049,7 +2049,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5679,
+            "stars": 5678,
             "topics": [
               "automation",
               "marketing",
@@ -2184,7 +2184,7 @@
                 "open_issues": 3,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
-                "stars": 511,
+                "stars": 513,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2336,7 +2336,7 @@
             "open_issues": 0,
             "owner": "vintasoftware",
             "repo": "critical-incidents-checklist",
-            "stars": 19,
+            "stars": 18,
             "topics": [
               "checklist",
               "crisis",
@@ -2410,7 +2410,7 @@
             "open_issues": 0,
             "owner": "histrio",
             "repo": "awesome-hiking",
-            "stars": 6,
+            "stars": 5,
             "topics": [
               "awesome-list",
               "checklist",
@@ -2441,7 +2441,7 @@
             "open_issues": 5,
             "owner": "ZKjellberg",
             "repo": "dark-souls-3-cheat-sheet",
-            "stars": 368,
+            "stars": 367,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2509,7 +2509,7 @@
                 "open_issues": 1,
                 "owner": "GiacomoLaw",
                 "repo": "pokefinder",
-                "stars": 6,
+                "stars": 5,
                 "topics": [
                   "checklist",
                   "pokedex",
@@ -2543,7 +2543,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23365,
+            "stars": 23367,
             "topics": [
               "api",
               "jwt",
@@ -2569,7 +2569,7 @@
             "open_issues": 0,
             "owner": "sqreen",
             "repo": "CTOSecurityChecklist",
-            "stars": 746,
+            "stars": 745,
             "topics": []
           },
           "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:19:43.388Z",
+    "last_updated": "2026-11-19T22:26:09.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2776,7 +2776,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2990,
+      "stars": 2989,
       "topics": [
         "awesome",
         "awesome-list",
