@@ -581,7 +581,7 @@
                 "open_issues": 1,
                 "owner": "mgechev",
                 "repo": "angular-performance-checklist",
-                "stars": 4129,
+                "stars": 4128,
                 "topics": [
                   "angular",
                   "application-shell",
@@ -757,7 +757,7 @@
                     "open_issues": 23,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74785,
+                    "stars": 74790,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2049,7 +2049,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5680,
+            "stars": 5681,
             "topics": [
               "automation",
               "marketing",
@@ -2543,7 +2543,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23369,
+            "stars": 23370,
             "topics": [
               "api",
               "jwt",
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:57:33.575Z",
+    "last_updated": "2026-11-21T20:39:34.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2776,7 +2776,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2989,
+      "stars": 2988,
       "topics": [
         "awesome",
         "awesome-list",
