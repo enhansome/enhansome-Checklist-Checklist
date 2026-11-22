@@ -757,7 +757,7 @@
                     "open_issues": 23,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74790,
+                    "stars": 74797,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -1755,7 +1755,7 @@
                 "open_issues": 0,
                 "owner": "rossbeale",
                 "repo": "iOS-App-Store-Submission-Checklist",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 0,
                 "owner": "whitef0x0",
                 "repo": "app-store-checklist",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:40:28.254Z"
@@ -2181,7 +2181,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
                 "stars": 513,
@@ -2543,7 +2543,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23370,
+            "stars": 23369,
             "topics": [
               "api",
               "jwt",
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:39:34.589Z",
+    "last_updated": "2026-11-22T20:50:02.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
