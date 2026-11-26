@@ -90,15 +90,15 @@
 ### <a id="Front-End-Development"></a>Front-End Development
 
 * [Angular Performance](https://github.com/mgechev/angular-performance-checklist) ⭐ 4,128 | 🐛 1 | 📅 2023-07-04
-* [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 228 | 🐛 0 | 📅 2017-10-20
+* [Java + Angular/React](https://github.com/shekhargulati/building-java-web-apps-checklist) ⭐ 227 | 🐛 0 | 📅 2017-10-20
 * [NPM Module](https://github.com/bahmutov/npm-module-checklist) ⭐ 126 | 🐛 3 | 📅 2016-01-07
 * [Before Front-End Development](https://github.com/rcherny/Front-End-Architecture-Checklist/blob/master/BaseFrontEndArch.md) ⭐ 106 | 🐛 0 | 📅 2014-10-07
 * [Accessibility](https://github.com/irekrog/accessibility-checklist) ⭐ 42 | 🐛 0 | 📅 2026-11-13
 * [Code Review](https://github.com/92bondstreet/code-review-front-end) ⭐ 36 | 🐛 0 | 📅 2014-05-11
 * [Feature Building](https://github.com/soleo/front-end-building-checklist) ⭐ 8 | 🐛 0 | 📅 2024-05-16
 * After Front-End Development
-  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,823 | 🐛 25 | 🌐 MDX | 📅 2026-10-31
-  * by [drublic](https://github.com/drublic/checklist) ⭐ 282 | 🐛 2 | 📅 2024-01-04
+  * by [thedaviddias](https://frontendchecklist.io/) | [Code](https://github.com/thedaviddias/Front-End-Checklist) ⭐ 74,831 | 🐛 25 | 🌐 MDX | 📅 2026-10-31
+  * by [drublic](https://github.com/drublic/checklist) ⭐ 283 | 🐛 2 | 📅 2024-01-04
   * by [albburtsev](https://github.com/albburtsev/frontend-developer-checklist) ⭐ 34 | 🐛 0 | 📅 2015-02-03
   * by [ligershark](http://webdevchecklist.com/) | [Code](https://github.com/ligershark/webdevchecklist.com)
   * by [strv-academy-2017](https://github.com/strv-academy-2017/deployment-checklist)
@@ -199,7 +199,7 @@
 ## <a id="Event"></a>Event
 
 * Conference
-  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 515 | 🐛 4 | 📅 2026-01-08
+  * [Conference Attendees](https://github.com/MacLemon/CongressChecklist) ⭐ 515 | 🐛 5 | 📅 2026-01-08
   * [Conference Organizers](https://github.com/mxsasha/lessobviouschecklist) ⭐ 383 | 🐛 6 | 📅 2024-08-09
   * [Presentations](https://github.com/gSchool/presentation-checklist) ⭐ 2 | 🐛 0 | 📅 2017-03-11
 * Meetup
@@ -220,7 +220,7 @@
 
 * [US](https://github.com/xzyfer/us-travel-checklist) ⭐ 73 | 🐛 3 | 📅 2013-08-28
 * [Abroad](https://github.com/jpcaparas/travel-checklist) ⭐ 11 | 🐛 0 | 📅 2017-08-01
-* [Hiking](https://github.com/histrio/awesome-hiking) ⭐ 5 | 🐛 0 | 📅 2023-04-02
+* [Hiking](https://github.com/histrio/awesome-hiking) ⭐ 5 | 🐛 1 | 📅 2023-04-02
 
 ## <a id="Games"></a>Games
 
@@ -232,7 +232,7 @@
 
 ## <a id="Miscellaneous"></a>Miscellaneous
 
-* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,372 | 🐛 2 | 📅 2026-07-21
+* [API Security](https://github.com/shieldfy/API-Security-Checklist) ⭐ 23,373 | 🐛 2 | 📅 2026-07-21
 * [SaaS Security](https://cto-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/CTOSecurityChecklist) ⭐ 745 | 🐛 0 | 🌐 JavaScript | 📅 2023-03-09
 * [Microservice Oriented Architecture](https://github.com/paunin/soa-checklist) ⭐ 97 | 🐛 0 | 📅 2018-03-19
 * [DevOps](https://devops-security-checklist.sqreen.io/) | [Code](https://github.com/sqreen/DevOpsSecurityChecklist) ⭐ 85 | 🐛 0 | 🌐 HTML | 📅 2022-10-15
@@ -321,4 +321,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

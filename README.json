@@ -609,7 +609,7 @@
                 "open_issues": 0,
                 "owner": "shekhargulati",
                 "repo": "building-java-web-apps-checklist",
-                "stars": 228,
+                "stars": 227,
                 "topics": [
                   "checklist",
                   "java"
@@ -757,7 +757,7 @@
                     "open_issues": 25,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74823,
+                    "stars": 74831,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -794,7 +794,7 @@
                     "open_issues": 2,
                     "owner": "drublic",
                     "repo": "checklist",
-                    "stars": 282,
+                    "stars": 283,
                     "topics": [
                       "checklist",
                       "frontend",
@@ -2181,7 +2181,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-08T13:54:43Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "MacLemon",
                 "repo": "CongressChecklist",
                 "stars": 515,
@@ -2407,7 +2407,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2023-04-02T14:28:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "histrio",
             "repo": "awesome-hiking",
             "stars": 5,
@@ -2543,7 +2543,7 @@
             "open_issues": 2,
             "owner": "shieldfy",
             "repo": "API-Security-Checklist",
-            "stars": 23372,
+            "stars": 23373,
             "topics": [
               "api",
               "jwt",
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:17:35.502Z",
+    "last_updated": "2026-11-26T23:17:30.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2776,7 +2776,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2988,
+      "stars": 2990,
       "topics": [
         "awesome",
         "awesome-list",
