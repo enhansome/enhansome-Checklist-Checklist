@@ -757,7 +757,7 @@
                     "open_issues": 25,
                     "owner": "thedaviddias",
                     "repo": "Front-End-Checklist",
-                    "stars": 74831,
+                    "stars": 74839,
                     "topics": [
                       "ai-agent",
                       "ai-agents",
@@ -2049,7 +2049,7 @@
             "open_issues": 4,
             "owner": "draftdev",
             "repo": "startup-marketing-checklist",
-            "stars": 5681,
+            "stars": 5682,
             "topics": [
               "automation",
               "marketing",
@@ -2764,7 +2764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:17:30.856Z",
+    "last_updated": "2026-11-27T22:55:37.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈  A Curated List of Checklists ✔︎✔︎",
@@ -2776,7 +2776,7 @@
       "open_issues": 10,
       "owner": "huyingjie",
       "repo": "Checklist-Checklist",
-      "stars": 2990,
+      "stars": 2989,
       "topics": [
         "awesome",
         "awesome-list",
